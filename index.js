@@ -36,7 +36,9 @@ client.on(`ready`, () => {
       { return member.voice.channel.leave(); }
     });
   
-    }, (5000));
+  ////////////////////// playing bot  
+    client.user.setActivity(`Type: ${PREFIX}help`, { type: "PLAYING"});
+  }, (5000));
     ////////////////////////////////
     ////////////////////////////////
     figlet.text(`${client.user.username} ready!`, function (err, data) {
