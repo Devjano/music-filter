@@ -21,7 +21,7 @@ module.exports = {
 > \` %bot\` • \`%support\` • \`%invite\` • \`%help\` • \`%ping\`
 
 > **[ \`invite\` ](https://discord.com/api/oauth2/authorize?client_id=867208331659706379&permissions=0&scope=bot)** 
-> **[ \`support\` ](https://discord.gg/7sEtecbAM6)**                                                              
+> **[ \`support\` ](https://discord.gg/dTNKbPXw9Y)**                                                              
  `)
     
     helpEmbed.setTimestamp();
